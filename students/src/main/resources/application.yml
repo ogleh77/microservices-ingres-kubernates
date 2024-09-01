@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: students
+  profiles:
+    active: deployment
+server:
+  port: 8081
+
